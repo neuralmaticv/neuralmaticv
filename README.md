@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Vladimir. 
+###  Hi there, I'm Vladimir. 👋🏻
 
 - 👨🏻‍💻 Geek and pet lover 🐾
 - 👨🏻‍🎓 Computer Science Student
