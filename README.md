@@ -1,6 +1,6 @@
 ###  Hi there, I'm Vladimir. 👋🏻
 
-- 👨🏻‍🎓 Computer Science Student at University of Banja Luka
+- 👨🏻‍🎓 Computer Science Student at Faculty of Natural Sciences and Mathematics, University of Banja Luka
 - 👨🏻‍💻 Geek and pet lover 🐾
 - ❣️ Always use your code for good!
 
