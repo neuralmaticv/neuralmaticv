@@ -2,6 +2,7 @@
 
 - 👨🏻‍🎓 Computer Science Student at Faculty of Natural Sciences and Mathematics, University of Banja Luka
 - 👨🏻‍💻 Geek and pet lover 🐾
+- 🚌 In free time, mostly involved with urban mobility utility programming. 🚲
 - ❣️ Always use your code for good!
 - [LinkedIn](https://www.linkedin.com/in/vladimir-mijic/) [Twitter](https://twitter.com/vladocodes)
 
