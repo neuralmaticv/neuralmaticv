@@ -4,8 +4,8 @@
 - 👨🏻‍💻 Geek and pet lover 🐾
 - 🚌 In free time, mostly involved with urban mobility utility programming. 🚲
 - ❣️ Always use your code for good!
-- Find me on: [LinkedIn](https://www.linkedin.com/in/vladimir-mijic/) or [Twitter](https://twitter.com/vladocodes)
 
-📧 If you have any questions or if you want to connect with me, feel free to drop me an email at vladocodes@gmail.com
+📧 If you have any questions or if you want to connect with me, feel free to drop me an email at vladocodes@gmail.com  
+🌐 Or find me on: [LinkedIn](https://www.linkedin.com/in/vladimir-mijic/) and [Twitter](https://twitter.com/vladocodes)
 
 
