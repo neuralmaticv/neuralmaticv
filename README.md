@@ -1,6 +1,6 @@
 ###  Hi there, I'm Vladimir. 👋🏻
 
-- 👨🏻‍🎓 Computer Science Student and ML/DL enthusiast
+- 👨🏻‍🎓 Computer Science Student and ML/DL enthusiast 👨🏻‍💻 
 - 🐕 With a love for furry companions 🐾
 - 🇧🇦 Junior Scholar at [Bosnia & Herzegovina Futures Foundation](https://www.bhfuturesfoundation.org/)
 - ❣️ Always use your code for good! 💻 
