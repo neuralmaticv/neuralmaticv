@@ -1,8 +1,8 @@
 ###  Hi there, I'm Vladimir. 👋🏻
 
 - 👨🏻‍🎓 Computer Science Student and ML enthusiast 👨🏻‍💻 
-- 🐕 With a love for furry companions 🐾
 - 🇧🇦 Junior Scholar at [Bosnia & Herzegovina Futures Foundation](https://www.bhfuturesfoundation.org/)
+- 🐕 With a love for furry companions 🐾
 - 💻 Always use your code for good! 
 
 🔗 [Personal website](https://vladocodes.github.io/)  
