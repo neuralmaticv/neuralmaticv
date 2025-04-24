@@ -1,6 +1,6 @@
 ###  Hi there, I'm Vladimir. 👋🏻
 
-- 👨🏻‍🎓 ML/AI Research Student 
+- 👨🏻‍🎓 AI/ML Research Engineer 
 - 🇧🇦 Alumni @ [BH Futures Foundation](https://www.bhfuturesfoundation.org/)
 - 🐕 With a love for furry companions
 - 👨🏻‍💻 Always use your code for good! 
