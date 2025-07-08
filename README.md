@@ -7,4 +7,4 @@
 - ❇️ Passionate about impactful technology and ethical AI
 - 💡 Always use your code for good!
 
-🔗 [Personal website](https://neuralmaticv.github.io/)
+
