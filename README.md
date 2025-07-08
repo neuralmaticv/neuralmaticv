@@ -1,8 +1,9 @@
-###  Hi there, I'm Vladimir. 👋🏻
+### Hi there, I'm Vladimir 👋🏻
 
-- 👨🏻‍🎓 AI/ML Research Engineer @ [Lanaco](https://www.lanaco.com/)
+- 👨🏻‍💻 AI/ML Research Engineer @ [LANACO](https://www.lanaco.com/)
 - 🇧🇦 Alumni @ [BH Futures Foundation](https://www.bhfuturesfoundation.org/)
-- 🐕 With a love for furry companions
-- 👨🏻‍💻 Always use your code for good! 
+- 🤗 Check out me on [Hugging Face](https://huggingface.co/gradientflow)
+- 🐕 Proud human to Lexi (OTSC – Old-Time Scotch Collie)
+- 💡 Passionate about ethical AI and impactful technology
 
-🔗 [Personal website](https://neuralmaticv.github.io/)  
+🔗 [Personal website](https://neuralmaticv.github.io/)
